@@ -10,7 +10,7 @@ public class PlayerController : MonoBehaviour
     private Animator _anima;
     private float _deadzone;
     public float direction;
-    //private Rigidbody2D rb;
+    
     
     // Start is called before the first frame update
     void Start()
@@ -25,6 +25,17 @@ public class PlayerController : MonoBehaviour
         transform.Translate(direction*speed*Time.deltaTime,0,transform.position.z);
         _anima.SetFloat("dir",direction);
         Debug.Log(direction);
+        
+        if(Input.GetKeyDown(KeyCode.X))
+            _anima.SetBool("impulsa",true);
+        if(Input.GetKeyUp(KeyCode.X))
+            _anima.SetBool("impulsa",false);
+        if(Input.GetKeyDown(KeyCode.C))
+            _anima.SetBool("damaged",true);
+        if(Input.GetKeyUp(KeyCode.C))
+            _anima.SetBool("damaged",false);
+        
+        
     }
 
     private void FixedUpdate()
