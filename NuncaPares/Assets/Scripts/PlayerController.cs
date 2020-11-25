@@ -12,6 +12,7 @@ public class PlayerController : MonoBehaviour
     public float direction;
 
     private Collider2D _hitboxHero;
+    private String _objetivo;
     
     
     // Start is called before the first frame update
@@ -43,6 +44,24 @@ public class PlayerController : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D other)
     {
-        Debug.Log(other.gameObject.tag);
+        _objetivo = other.gameObject.tag;
+        Debug.Log(_objetivo);
+        switch (_objetivo)
+        {
+            case "Pared":
+                _anima.SetFloat("dir",0);
+                _anima.SetBool("damaged",true);
+                break;
+        }
+    }private void OnCollisionExit2D(Collision2D other)
+    {
+        _objetivo = other.gameObject.tag;
+        Debug.Log(_objetivo);
+        switch (_objetivo)
+        {
+            case "Pared":
+                _anima.SetBool("damaged",false);
+                break;
+        }
     }
 }
