@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -6,20 +7,28 @@ public class PlayerController : MonoBehaviour
 {
     
     public float speed = 0.15f;
-    private Rigidbody2D rb;
+    private Animator _anima;
+    private float _deadzone;
+    public float direction;
+    //private Rigidbody2D rb;
     
     // Start is called before the first frame update
     void Start()
     {
-        rb = GetComponent<Rigidbody2D> ();
+        _anima = GetComponent<Animator>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        transform.Translate(Input.GetAxis("Horizontal")*speed*Time.deltaTime,Input.GetAxis("Vertical")*speed*Time.deltaTime,transform.position.z);
-        
-        
+        direction = Input.GetAxis("Horizontal");
+        transform.Translate(direction*speed*Time.deltaTime,0,transform.position.z);
+        _anima.SetFloat("dir",direction);
+        Debug.Log(direction);
+    }
+
+    private void FixedUpdate()
+    {
         
     }
 }

@@ -11,7 +11,7 @@ public class GameManager : MonoBehaviour
 
     public int nivel;
     public int puntos;
-    public int batería;
+    public float bateria;
     
     public float valorTimeScale;
 
@@ -22,6 +22,10 @@ public class GameManager : MonoBehaviour
         else if (_instancia != this)
             Destroy(gameObject);    
         DontDestroyOnLoad(gameObject);
+
+        nivel = 1;
+        puntos = 0;
+        bateria = 100;
     }
 
     // Start is called before the first frame update

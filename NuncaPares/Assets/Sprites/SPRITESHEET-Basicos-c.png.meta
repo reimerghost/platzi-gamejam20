@@ -1,0 +1,2720 @@
+fileFormatVersion: 2
+guid: 64a32f8099bfd9f489ef07e0ef173444
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1815517700009604440
+    second: SPRITESHEET-Basicos-c_0
+  - first:
+      213: -4952457771703007920
+    second: SPRITESHEET-Basicos-c_1
+  - first:
+      213: -4362947500504235955
+    second: SPRITESHEET-Basicos-c_2
+  - first:
+      213: 6385042809763166113
+    second: SPRITESHEET-Basicos-c_3
+  - first:
+      213: -9219130277302830692
+    second: SPRITESHEET-Basicos-c_4
+  - first:
+      213: 6461606585794342806
+    second: SPRITESHEET-Basicos-c_5
+  - first:
+      213: -3283552438951611950
+    second: SPRITESHEET-Basicos-c_6
+  - first:
+      213: -1849533633792534838
+    second: SPRITESHEET-Basicos-c_7
+  - first:
+      213: -4001402634206953603
+    second: SPRITESHEET-Basicos-c_8
+  - first:
+      213: -5204554650745191280
+    second: SPRITESHEET-Basicos-c_9
+  - first:
+      213: 9056883291364207590
+    second: SPRITESHEET-Basicos-c_10
+  - first:
+      213: -500447792118396543
+    second: SPRITESHEET-Basicos-c_11
+  - first:
+      213: -5593218968120125988
+    second: SPRITESHEET-Basicos-c_12
+  - first:
+      213: -6109500835178401326
+    second: SPRITESHEET-Basicos-c_13
+  - first:
+      213: -5921891182401350051
+    second: SPRITESHEET-Basicos-c_14
+  - first:
+      213: -5388485341938749520
+    second: SPRITESHEET-Basicos-c_15
+  - first:
+      213: -7335263780706156522
+    second: SPRITESHEET-Basicos-c_16
+  - first:
+      213: 1339047413807464214
+    second: SPRITESHEET-Basicos-c_17
+  - first:
+      213: -3851482354689939983
+    second: SPRITESHEET-Basicos-c_18
+  - first:
+      213: 4028580833887448015
+    second: SPRITESHEET-Basicos-c_19
+  - first:
+      213: -1162664701858841148
+    second: SPRITESHEET-Basicos-c_20
+  - first:
+      213: -6549951269619438416
+    second: SPRITESHEET-Basicos-c_21
+  - first:
+      213: -9199573189565728757
+    second: SPRITESHEET-Basicos-c_22
+  - first:
+      213: 2818708138192358259
+    second: SPRITESHEET-Basicos-c_23
+  - first:
+      213: 6189009052816806949
+    second: SPRITESHEET-Basicos-c_24
+  - first:
+      213: 8094363119440659121
+    second: SPRITESHEET-Basicos-c_25
+  - first:
+      213: -4206588321945730263
+    second: SPRITESHEET-Basicos-c_26
+  - first:
+      213: -4423802155926128558
+    second: SPRITESHEET-Basicos-c_27
+  - first:
+      213: -3428809216638824084
+    second: SPRITESHEET-Basicos-c_28
+  - first:
+      213: -5373205271036543785
+    second: SPRITESHEET-Basicos-c_29
+  - first:
+      213: -6128541230691049392
+    second: SPRITESHEET-Basicos-c_30
+  - first:
+      213: -8441869962865232131
+    second: SPRITESHEET-Basicos-c_31
+  - first:
+      213: -7503537178728399391
+    second: SPRITESHEET-Basicos-c_32
+  - first:
+      213: -4062923271322454217
+    second: SPRITESHEET-Basicos-c_33
+  - first:
+      213: 3120909363862623408
+    second: SPRITESHEET-Basicos-c_34
+  - first:
+      213: 4698402754109118116
+    second: SPRITESHEET-Basicos-c_35
+  - first:
+      213: -4574397058244990448
+    second: SPRITESHEET-Basicos-c_36
+  - first:
+      213: -8527466176648784124
+    second: SPRITESHEET-Basicos-c_37
+  - first:
+      213: 4538369337333596901
+    second: SPRITESHEET-Basicos-c_38
+  - first:
+      213: 2634630136497609922
+    second: SPRITESHEET-Basicos-c_39
+  - first:
+      213: -4684841177353826833
+    second: SPRITESHEET-Basicos-c_40
+  - first:
+      213: -3750589730546570783
+    second: SPRITESHEET-Basicos-c_41
+  - first:
+      213: -4586416142241257674
+    second: SPRITESHEET-Basicos-c_42
+  - first:
+      213: -3282396831001326123
+    second: SPRITESHEET-Basicos-c_43
+  - first:
+      213: -7274555110874192908
+    second: SPRITESHEET-Basicos-c_44
+  - first:
+      213: 8235824375422135672
+    second: SPRITESHEET-Basicos-c_45
+  - first:
+      213: -4190374753344530736
+    second: SPRITESHEET-Basicos-c_46
+  - first:
+      213: 3134637793208312991
+    second: SPRITESHEET-Basicos-c_47
+  - first:
+      213: 439913410570202807
+    second: SPRITESHEET-Basicos-c_48
+  - first:
+      213: -9005998940499397677
+    second: SPRITESHEET-Basicos-c_49
+  - first:
+      213: -3281339086671752650
+    second: SPRITESHEET-Basicos-c_50
+  - first:
+      213: -3455387054143676500
+    second: SPRITESHEET-Basicos-c_51
+  - first:
+      213: 8436809396077582769
+    second: SPRITESHEET-Basicos-c_52
+  - first:
+      213: 4757815215723125040
+    second: SPRITESHEET-Basicos-c_53
+  - first:
+      213: -6669241504127166632
+    second: SPRITESHEET-Basicos-c_54
+  - first:
+      213: 8059627457581589225
+    second: SPRITESHEET-Basicos-c_55
+  - first:
+      213: -8525263166590958806
+    second: SPRITESHEET-Basicos-c_56
+  - first:
+      213: 3565179965604478143
+    second: SPRITESHEET-Basicos-c_57
+  - first:
+      213: -8955959005889782394
+    second: SPRITESHEET-Basicos-c_58
+  - first:
+      213: 759787539741613718
+    second: SPRITESHEET-Basicos-c_59
+  - first:
+      213: 71256754449177588
+    second: SPRITESHEET-Basicos-c_60
+  - first:
+      213: -2379816038246751322
+    second: SPRITESHEET-Basicos-c_61
+  - first:
+      213: -1323422178460861122
+    second: SPRITESHEET-Basicos-c_62
+  - first:
+      213: 3034195670228854556
+    second: SPRITESHEET-Basicos-c_63
+  - first:
+      213: -5862848493118834344
+    second: SPRITESHEET-Basicos-c_64
+  - first:
+      213: 2510594858135042503
+    second: SPRITESHEET-Basicos-c_65
+  - first:
+      213: -3510284314924123845
+    second: SPRITESHEET-Basicos-c_66
+  - first:
+      213: -3224202531185124206
+    second: SPRITESHEET-Basicos-c_67
+  - first:
+      213: -7839327056327548768
+    second: SPRITESHEET-Basicos-c_68
+  - first:
+      213: -6909765284196530289
+    second: SPRITESHEET-Basicos-c_69
+  - first:
+      213: -7133424191818761855
+    second: SPRITESHEET-Basicos-c_70
+  - first:
+      213: -7094591900436628737
+    second: SPRITESHEET-Basicos-c_71
+  - first:
+      213: -4865232877849761480
+    second: SPRITESHEET-Basicos-c_72
+  - first:
+      213: 6179051946319329937
+    second: SPRITESHEET-Basicos-c_73
+  - first:
+      213: -1746708156178314786
+    second: SPRITESHEET-Basicos-c_74
+  - first:
+      213: -417900720829755107
+    second: SPRITESHEET-Basicos-c_75
+  - first:
+      213: -2511440860394050245
+    second: SPRITESHEET-Basicos-c_76
+  - first:
+      213: 8585800344319148334
+    second: SPRITESHEET-Basicos-c_77
+  - first:
+      213: -2224392679735615931
+    second: SPRITESHEET-Basicos-c_78
+  - first:
+      213: 9147920511786399981
+    second: SPRITESHEET-Basicos-c_79
+  - first:
+      213: 4576639736282940399
+    second: SPRITESHEET-Basicos-c_80
+  - first:
+      213: -390533100257944655
+    second: SPRITESHEET-Basicos-c_81
+  - first:
+      213: 2839406899675754238
+    second: SPRITESHEET-Basicos-c_82
+  - first:
+      213: -1852446057187165558
+    second: SPRITESHEET-Basicos-c_83
+  - first:
+      213: -8164626279650972933
+    second: SPRITESHEET-Basicos-c_84
+  - first:
+      213: 1419441782140992686
+    second: SPRITESHEET-Basicos-c_85
+  - first:
+      213: -200049744163392257
+    second: SPRITESHEET-Basicos-c_86
+  - first:
+      213: 8068196878175855203
+    second: SPRITESHEET-Basicos-c_87
+  - first:
+      213: -37826969423960510
+    second: SPRITESHEET-Basicos-c_88
+  - first:
+      213: 1056762336419119802
+    second: SPRITESHEET-Basicos-c_89
+  - first:
+      213: -4563185805704034685
+    second: SPRITESHEET-Basicos-c_90
+  - first:
+      213: 4693146120794704109
+    second: SPRITESHEET-Basicos-c_91
+  - first:
+      213: 2687170753708777738
+    second: SPRITESHEET-Basicos-c_92
+  - first:
+      213: 8879120902793953738
+    second: SPRITESHEET-Basicos-c_93
+  - first:
+      213: -5817802363107730283
+    second: SPRITESHEET-Basicos-c_94
+  - first:
+      213: 2079908992894736842
+    second: SPRITESHEET-Basicos-c_95
+  - first:
+      213: 1449561525683298044
+    second: SPRITESHEET-Basicos-c_96
+  - first:
+      213: 6894299742341447638
+    second: SPRITESHEET-Basicos-c_97
+  - first:
+      213: 8397400117744625115
+    second: SPRITESHEET-Basicos-c_0
+  - first:
+      213: -9207335361778434586
+    second: SPRITESHEET-Basicos-c_1
+  - first:
+      213: 9041752559196982074
+    second: SPRITESHEET-Basicos-c_2
+  - first:
+      213: -8804327440004978922
+    second: SPRITESHEET-Basicos-c_3
+  - first:
+      213: -7937003764411764590
+    second: SPRITESHEET-Basicos-c_4
+  - first:
+      213: -3723102735566585291
+    second: SPRITESHEET-Basicos-c_5
+  - first:
+      213: -1957113382162281942
+    second: SPRITESHEET-Basicos-c_6
+  - first:
+      213: 604728682793521484
+    second: SPRITESHEET-Basicos-c_7
+  - first:
+      213: -400044916823375420
+    second: SPRITESHEET-Basicos-c_8
+  - first:
+      213: 5143796187766350898
+    second: SPRITESHEET-Basicos-c_9
+  - first:
+      213: 803770653972048024
+    second: SPRITESHEET-Basicos-c_10
+  - first:
+      213: -5355433729041493332
+    second: SPRITESHEET-Basicos-c_11
+  - first:
+      213: -3518629568874366194
+    second: SPRITESHEET-Basicos-c_12
+  - first:
+      213: -1793899119968448790
+    second: SPRITESHEET-Basicos-c_13
+  - first:
+      213: -4653800090095925162
+    second: SPRITESHEET-Basicos-c_14
+  - first:
+      213: 4069596433849174681
+    second: SPRITESHEET-Basicos-c_15
+  - first:
+      213: 8563535015419797419
+    second: SPRITESHEET-Basicos-c_16
+  - first:
+      213: -2120368876623153501
+    second: SPRITESHEET-Basicos-c_17
+  - first:
+      213: 73068188449794923
+    second: SPRITESHEET-Basicos-c_18
+  - first:
+      213: -3966531931328922807
+    second: SPRITESHEET-Basicos-c_19
+  - first:
+      213: -2977430650014324293
+    second: SPRITESHEET-Basicos-c_20
+  - first:
+      213: 3484269802960014353
+    second: SPRITESHEET-Basicos-c_21
+  - first:
+      213: -7666511999515915234
+    second: SPRITESHEET-Basicos-c_22
+  - first:
+      213: -2991714487087939798
+    second: SPRITESHEET-Basicos-c_23
+  - first:
+      213: 2689352394726589412
+    second: SPRITESHEET-Basicos-c_24
+  - first:
+      213: -2069368800312433881
+    second: SPRITESHEET-Basicos-c_25
+  - first:
+      213: 276875493543605064
+    second: SPRITESHEET-Basicos-c_26
+  - first:
+      213: -4963822670768584661
+    second: SPRITESHEET-Basicos-c_27
+  - first:
+      213: 7479888641057951751
+    second: SPRITESHEET-Basicos-c_28
+  - first:
+      213: 7385742555458824935
+    second: SPRITESHEET-Basicos-c_29
+  - first:
+      213: -2970361279738539381
+    second: SPRITESHEET-Basicos-c_30
+  - first:
+      213: -300826389668809555
+    second: SPRITESHEET-Basicos-c_31
+  - first:
+      213: 3268085490478104847
+    second: SPRITESHEET-Basicos-c_32
+  - first:
+      213: -5023928460705777299
+    second: SPRITESHEET-Basicos-c_33
+  - first:
+      213: -2159926854733140081
+    second: SPRITESHEET-Basicos-c_34
+  - first:
+      213: 1394802876342904971
+    second: SPRITESHEET-Basicos-c_35
+  - first:
+      213: 5927314599567860601
+    second: SPRITESHEET-Basicos-c_36
+  - first:
+      213: -4919376383730087988
+    second: SPRITESHEET-Basicos-c_37
+  - first:
+      213: 5242878953682865933
+    second: SPRITESHEET-Basicos-c_38
+  - first:
+      213: 5658526294116970169
+    second: SPRITESHEET-Basicos-c_39
+  - first:
+      213: -4950095459527233863
+    second: SPRITESHEET-Basicos-c_40
+  - first:
+      213: -2619074217546428893
+    second: SPRITESHEET-Basicos-c_41
+  - first:
+      213: -7969741538300265616
+    second: SPRITESHEET-Basicos-c_42
+  - first:
+      213: 435405117546074060
+    second: SPRITESHEET-Basicos-c_43
+  - first:
+      213: 1496297204376344207
+    second: SPRITESHEET-Basicos-c_44
+  - first:
+      213: -7872316501200833554
+    second: SPRITESHEET-Basicos-c_45
+  - first:
+      213: 7626089364226781980
+    second: SPRITESHEET-Basicos-c_46
+  - first:
+      213: -9045879703748308643
+    second: SPRITESHEET-Basicos-c_47
+  - first:
+      213: -4592142425091734126
+    second: SPRITESHEET-Basicos-c_48
+  - first:
+      213: 3342260189105777289
+    second: SPRITESHEET-Basicos-c_49
+  - first:
+      213: 8545970716932672835
+    second: SPRITESHEET-Basicos-c_50
+  - first:
+      213: -5603961424245425893
+    second: SPRITESHEET-Basicos-c_51
+  - first:
+      213: -7629535897657889526
+    second: SPRITESHEET-Basicos-c_52
+  - first:
+      213: 802276403189520149
+    second: SPRITESHEET-Basicos-c_53
+  - first:
+      213: -3479860398044771672
+    second: SPRITESHEET-Basicos-c_54
+  - first:
+      213: -5532108529787737763
+    second: SPRITESHEET-Basicos-c_55
+  - first:
+      213: -7711304789267368346
+    second: SPRITESHEET-Basicos-c_56
+  - first:
+      213: -6063508138781122402
+    second: SPRITESHEET-Basicos-c_57
+  - first:
+      213: -8284721002672163794
+    second: SPRITESHEET-Basicos-c_58
+  - first:
+      213: -587225074152094800
+    second: SPRITESHEET-Basicos-c_59
+  - first:
+      213: -5568308963768602323
+    second: SPRITESHEET-Basicos-c_60
+  - first:
+      213: 5357859655174850422
+    second: SPRITESHEET-Basicos-c_61
+  - first:
+      213: 2621407277605198896
+    second: SPRITESHEET-Basicos-c_62
+  - first:
+      213: 8056354067737006809
+    second: SPRITESHEET-Basicos-c_63
+  - first:
+      213: 3101344745224629603
+    second: SPRITESHEET-Basicos-c_64
+  - first:
+      213: 1355340197526765474
+    second: SPRITESHEET-Basicos-c_65
+  - first:
+      213: -1764377923058005032
+    second: SPRITESHEET-Basicos-c_66
+  - first:
+      213: -5469387578706795228
+    second: SPRITESHEET-Basicos-c_67
+  - first:
+      213: -554721663233548133
+    second: SPRITESHEET-Basicos-c_68
+  - first:
+      213: -4348182581234541665
+    second: SPRITESHEET-Basicos-c_69
+  - first:
+      213: 5279700609700316770
+    second: SPRITESHEET-Basicos-c_70
+  - first:
+      213: 9208509775976459315
+    second: SPRITESHEET-Basicos-c_71
+  - first:
+      213: -686250679145062569
+    second: SPRITESHEET-Basicos-c_72
+  - first:
+      213: -4934856553424768662
+    second: SPRITESHEET-Basicos-c_73
+  - first:
+      213: -695914462561539893
+    second: SPRITESHEET-Basicos-c_74
+  - first:
+      213: -7287210108275198839
+    second: SPRITESHEET-Basicos-c_75
+  - first:
+      213: -33528202383274093
+    second: SPRITESHEET-Basicos-c_76
+  - first:
+      213: -6116177855885978922
+    second: SPRITESHEET-Basicos-c_77
+  - first:
+      213: 7435502879339600122
+    second: SPRITESHEET-Basicos-c_78
+  - first:
+      213: 5755087837363501199
+    second: SPRITESHEET-Basicos-c_79
+  - first:
+      213: -1058424226365414572
+    second: SPRITESHEET-Basicos-c_80
+  - first:
+      213: -6289335515715340159
+    second: SPRITESHEET-Basicos-c_81
+  - first:
+      213: -321545817611717829
+    second: SPRITESHEET-Basicos-c_82
+  - first:
+      213: 8995280516564857503
+    second: SPRITESHEET-Basicos-c_83
+  - first:
+      213: -5425620879322236138
+    second: SPRITESHEET-Basicos-c_84
+  - first:
+      213: -2911411211778409486
+    second: SPRITESHEET-Basicos-c_85
+  - first:
+      213: -8094386373322697259
+    second: SPRITESHEET-Basicos-c_86
+  - first:
+      213: -625464569962635983
+    second: SPRITESHEET-Basicos-c_87
+  - first:
+      213: 6783751246096131902
+    second: SPRITESHEET-Basicos-c_88
+  - first:
+      213: 5126587433325620964
+    second: SPRITESHEET-Basicos-c_89
+  - first:
+      213: 6705147062058667514
+    second: SPRITESHEET-Basicos-c_90
+  - first:
+      213: -4002907182865408512
+    second: SPRITESHEET-Basicos-c_91
+  - first:
+      213: -8103702035009421694
+    second: SPRITESHEET-Basicos-c_92
+  - first:
+      213: 6664865732435799666
+    second: SPRITESHEET-Basicos-c_93
+  - first:
+      213: -5750656241374896901
+    second: SPRITESHEET-Basicos-c_94
+  - first:
+      213: -273184298879947142
+    second: SPRITESHEET-Basicos-c_95
+  - first:
+      213: 4695746699465433838
+    second: SPRITESHEET-Basicos-c_96
+  - first:
+      213: 7741536145929304455
+    second: SPRITESHEET-Basicos-c_97
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5660.909
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5edfe6aee898470800000000000000
+      internalID: 8397400117744625115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_1
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 5660.909
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edbd416549f83080800000000000000
+      internalID: -9207335361778434586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_2
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 5660.909
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b4aed1c02ca7d70800000000000000
+      internalID: 9041752559196982074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_3
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 5660.909
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617674437deb0d580800000000000000
+      internalID: -8804327440004978922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_4
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 5660.909
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2907c49d0291ad190800000000000000
+      internalID: -7937003764411764590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_5
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 5660.909
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532c440b9c1e45cc0800000000000000
+      internalID: -3723102735566585291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_6
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 5660.909
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2acd078fbfe6d4e0800000000000000
+      internalID: -1957113382162281942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_7
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 5660.909
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41d563788d646800800000000000000
+      internalID: 604728682793521484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_8
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 5660.909
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1ca868441c27af0800000000000000
+      internalID: -400044916823375420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5094.909
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23462d8316f626740800000000000000
+      internalID: 5143796187766350898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_10
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 5094.909
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89823e6b621972b00800000000000000
+      internalID: 803770653972048024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_11
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 5094.909
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca21652d56dada5b0800000000000000
+      internalID: -5355433729041493332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_12
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 5094.909
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bbe03bc015b2fc0800000000000000
+      internalID: -3518629568874366194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_13
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 5094.909
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee056f314aca17e0800000000000000
+      internalID: -1793899119968448790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_14
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 5094.909
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658c62699716a6fb0800000000000000
+      internalID: -4653800090095925162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_15
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 5094.909
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ac6ca156c1a7830800000000000000
+      internalID: 4069596433849174681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_16
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 5094.909
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf57b799b9c7d670800000000000000
+      internalID: 8563535015419797419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_17
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 5094.909
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6351cadbfe292e0800000000000000
+      internalID: -2120368876623153501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4528.909
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b6ee85127930100800000000000000
+      internalID: 73068188449794923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_19
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 4528.909
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b35ea593c04f8c0800000000000000
+      internalID: -3966531931328922807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_20
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 4528.909
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb92982599a0ea6d0800000000000000
+      internalID: -2977430650014324293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_21
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 4528.909
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c4d03ecec9a5030800000000000000
+      internalID: 3484269802960014353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_22
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 4528.909
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c859294f31b9590800000000000000
+      internalID: -7666511999515915234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_23
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 4528.909
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fbbb7568b4b76d0800000000000000
+      internalID: -2991714487087939798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_24
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 4528.909
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3468311cf725520800000000000000
+      internalID: 2689352394726589412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_25
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 4528.909
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723e9144a002843e0800000000000000
+      internalID: -2069368800312433881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_26
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 4528.909
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8437daf5bc8a7d300800000000000000
+      internalID: 276875493543605064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3962.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28cec49495fc1bb0800000000000000
+      internalID: -4963822670768584661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_28
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 3962.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7001db1c617edc760800000000000000
+      internalID: 7479888641057951751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_29
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 3962.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaeb9c09bd6f7660800000000000000
+      internalID: 7385742555458824935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_30
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 3962.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b821c9a572827c6d0800000000000000
+      internalID: -2970361279738539381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_31
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 3962.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da43ab01eff33dbf0800000000000000
+      internalID: -300826389668809555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_32
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 3962.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f014e8340729a5d20800000000000000
+      internalID: 3268085490478104847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_33
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 3962.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6938a2deab674ab0800000000000000
+      internalID: -5023928460705777299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_34
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 3962.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fedca28f56602e0800000000000000
+      internalID: -2159926854733140081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_35
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 3962.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88ac1873d55b5310800000000000000
+      internalID: 1394802876342904971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3396.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973aa3b593d024250800000000000000
+      internalID: 5927314599567860601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_37
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 3396.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc782533e3ddabbb0800000000000000
+      internalID: -4919376383730087988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_38
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 3396.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f83a261a272c840800000000000000
+      internalID: 5242878953682865933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_39
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 3396.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9beac013faf178e40800000000000000
+      internalID: 5658526294116970169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_40
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 3396.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9beea92086abd4bb0800000000000000
+      internalID: -4950095459527233863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_41
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 3396.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ec2c620ed27abd0800000000000000
+      internalID: -2619074217546428893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_42
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 3396.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bffe1eb4ac56190800000000000000
+      internalID: -7969741538300265616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_43
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 3396.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf88b4c5aeda0600800000000000000
+      internalID: 435405117546074060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_44
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 3396.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f861341316ae3c410800000000000000
+      internalID: 1496297204376344207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2830.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee37a7af9d9efb290800000000000000
+      internalID: -7872316501200833554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_46
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2830.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c133f1c3fdf45d960800000000000000
+      internalID: 7626089364226781980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_47
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2830.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d519a292654967280800000000000000
+      internalID: -9045879703748308643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_48
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 2830.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295086a6bce6540c0800000000000000
+      internalID: -4592142425091734126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_49
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 2830.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a64961fe7126e20800000000000000
+      internalID: 3342260189105777289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_50
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 2830.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d89aba613699670800000000000000
+      internalID: 8545970716932672835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_51
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 2830.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19fbd496caba32b0800000000000000
+      internalID: -5603961424245425893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_52
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 2830.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0da20b26817e1690800000000000000
+      internalID: -7629535897657889526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_53
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 2830.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5171ac75322422b00800000000000000
+      internalID: 802276403189520149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2264.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa8792b76d05bfc0800000000000000
+      internalID: -3479860398044771672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_55
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2264.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59e71f3a900a33b0800000000000000
+      internalID: -5532108529787737763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_56
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2264.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66633f08621fbf490800000000000000
+      internalID: -7711304789267368346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_57
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 2264.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90e24f39771adba0800000000000000
+      internalID: -6063508138781122402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_58
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 2264.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24f1847422c60d80800000000000000
+      internalID: -8284721002672163794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_59
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 2264.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b346f308e1c9d7f0800000000000000
+      internalID: -587225074152094800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_60
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 2264.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21f2f6ef7469b2b0800000000000000
+      internalID: -5568308963768602323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_61
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 2264.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677081f18f0fa5a40800000000000000
+      internalID: 5357859655174850422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_62
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 2264.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c1849b70c116420800000000000000
+      internalID: 2621407277605198896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1698.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2dc38175bedcf60800000000000000
+      internalID: 8056354067737006809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_64
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1698.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d63293d903a0b20800000000000000
+      internalID: 3101344745224629603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_65
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1698.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aff36f8ab22fc210800000000000000
+      internalID: 1355340197526765474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_66
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1698.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db069680aba387e0800000000000000
+      internalID: -1764377923058005032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_67
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1698.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4256f38a9f4d814b0800000000000000
+      internalID: -5469387578706795228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_68
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 1698.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9020c9169b3d48f0800000000000000
+      internalID: -554721663233548133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_69
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 1698.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b59f2eaf628a3c0800000000000000
+      internalID: -4348182581234541665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_70
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 1698.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266c9914bb3454940800000000000000
+      internalID: 5279700609700316770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_71
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 1698.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ce9cb3ad23bcf70800000000000000
+      internalID: 9208509775976459315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1132.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f10baa4a2f976f0800000000000000
+      internalID: -686250679145062569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_73
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1132.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61bb935c1ed38bb0800000000000000
+      internalID: -4934856553424768662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_74
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1132.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc866f0cb7d9756f0800000000000000
+      internalID: -695914462561539893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_75
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1132.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984fe9c0401aeda90800000000000000
+      internalID: -7287210108275198839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_76
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1132.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fccfe0742e88ff0800000000000000
+      internalID: -33528202383274093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_77
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 1132.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d25ecc15a8fe1ba0800000000000000
+      internalID: -6116177855885978922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_78
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 1132.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af85e694976303760800000000000000
+      internalID: 7435502879339600122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_79
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 1132.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88f83575ed2edf40800000000000000
+      internalID: 5755087837363501199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_80
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 1132.9092
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45362dd16c8bf41f0800000000000000
+      internalID: -1058424226365414572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 566.9091
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188f988bbaac7b8a0800000000000000
+      internalID: -6289335515715340159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_82
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 566.9091
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33bd3258c3a98bf0800000000000000
+      internalID: -321545817611717829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_83
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 566.9091
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9237d488f7a5dc70800000000000000
+      internalID: 8995280516564857503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_84
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 566.9091
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b3e027e8254b4b0800000000000000
+      internalID: -5425620879322236138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_85
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 566.9091
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbbbde9de69897d0800000000000000
+      internalID: -2911411211778409486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_86
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 566.9091
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d59657ba76faaf80800000000000000
+      internalID: -8094386373322697259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_87
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 566.9091
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dd8c79947e157f0800000000000000
+      internalID: -625464569962635983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_88
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 566.9091
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e376c2401d9b42e50800000000000000
+      internalID: 6783751246096131902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_89
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 566.9091
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eeea59db1c452740800000000000000
+      internalID: 5126587433325620964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.90911865
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdc2c04ab77d0d50800000000000000
+      internalID: 6705147062058667514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_91
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0.90911865
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e92702021d278c0800000000000000
+      internalID: -4002907182865408512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_92
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 0.90911865
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e37a53fedd98f80800000000000000
+      internalID: -8103702035009421694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_93
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 0.90911865
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e6289521c5e7c50800000000000000
+      internalID: 6664865732435799666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_94
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 0.90911865
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc5773ed909130b0800000000000000
+      internalID: -5750656241374896901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET-Basicos-c_95
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 0.90911865
+        width: 398.8889
+        height: 566.0909
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7eeb0bd354753cf0800000000000000
+      internalID: -273184298879947142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
