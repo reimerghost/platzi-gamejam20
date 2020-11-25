@@ -13,21 +13,23 @@ public class PlayerController : MonoBehaviour
 
     private Collider2D _hitboxHero;
     private String _objetivo;
+    private GameObject _escudo;
     
     
     // Start is called before the first frame update
     void Start()
     {
         _anima = GetComponent<Animator>();
+        _escudo = GameObject.Find("/Robot/Escudo");
+        _escudo.SetActive(false);
         _hitboxHero = GetComponent<CapsuleCollider2D>();
-        _hitboxHero.isTrigger = false;
     }
 
     // Update is called once per frame
-    void FixedUpdate()
+    void Update()
     {
         direction = Input.GetAxis("Horizontal");
-        transform.Translate(direction*speed*Time.deltaTime,0,transform.position.z);
+        transform.Translate(direction*speed*Time.deltaTime,0,0);
         _anima.SetFloat("dir",direction);
         
         if(Input.GetKeyDown(KeyCode.X))
@@ -38,6 +40,10 @@ public class PlayerController : MonoBehaviour
             _anima.SetBool("damaged",true);
         if(Input.GetKeyUp(KeyCode.C))
             _anima.SetBool("damaged",false);
+        if(Input.GetKeyDown(KeyCode.Space))
+            _escudo.SetActive(true);
+        if(Input.GetKeyUp(KeyCode.Space))
+            _escudo.SetActive(false);
         
         
     }
@@ -49,8 +55,9 @@ public class PlayerController : MonoBehaviour
         switch (_objetivo)
         {
             case "Pared":
-                _anima.SetFloat("dir",0);
                 _anima.SetBool("damaged",true);
+                break;
+            case "Tope":
                 break;
         }
     }private void OnCollisionExit2D(Collision2D other)
@@ -61,6 +68,8 @@ public class PlayerController : MonoBehaviour
         {
             case "Pared":
                 _anima.SetBool("damaged",false);
+                break;
+            case "Tope":
                 break;
         }
     }

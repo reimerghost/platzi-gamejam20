@@ -1,0 +1,2429 @@
+fileFormatVersion: 2
+guid: e20f8af34edeb8b46992e0f896a72582
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3991223956117509613
+    second: "SpritesDa\xF1osLaterales_0"
+  - first:
+      213: -7636256926375060732
+    second: "SpritesDa\xF1osLaterales_1"
+  - first:
+      213: 3993266104022246229
+    second: "SpritesDa\xF1osLaterales_2"
+  - first:
+      213: 5500012137982561007
+    second: "SpritesDa\xF1osLaterales_3"
+  - first:
+      213: -7494808313836088407
+    second: "SpritesDa\xF1osLaterales_4"
+  - first:
+      213: 1389693727580977668
+    second: "SpritesDa\xF1osLaterales_5"
+  - first:
+      213: -9049523036489434635
+    second: "SpritesDa\xF1osLaterales_6"
+  - first:
+      213: 404031590075703451
+    second: "SpritesDa\xF1osLaterales_7"
+  - first:
+      213: -1505448956400518157
+    second: "SpritesDa\xF1osLaterales_8"
+  - first:
+      213: -3736739850765225006
+    second: "SpritesDa\xF1osLaterales_9"
+  - first:
+      213: -3703706478333720718
+    second: "SpritesDa\xF1osLaterales_10"
+  - first:
+      213: 6543769174934322316
+    second: "SpritesDa\xF1osLaterales_11"
+  - first:
+      213: -6256521845601823125
+    second: "SpritesDa\xF1osLaterales_12"
+  - first:
+      213: -3772866358348259581
+    second: "SpritesDa\xF1osLaterales_13"
+  - first:
+      213: 9216250810724884795
+    second: "SpritesDa\xF1osLaterales_14"
+  - first:
+      213: -3800289555652141884
+    second: "SpritesDa\xF1osLaterales_15"
+  - first:
+      213: 7974380893084152036
+    second: "SpritesDa\xF1osLaterales_16"
+  - first:
+      213: 5425705876954328180
+    second: "SpritesDa\xF1osLaterales_17"
+  - first:
+      213: -3450481558233784947
+    second: "SpritesDa\xF1osLaterales_18"
+  - first:
+      213: -8848752509399978878
+    second: "SpritesDa\xF1osLaterales_19"
+  - first:
+      213: -8079582841645590862
+    second: "SpritesDa\xF1osLaterales_20"
+  - first:
+      213: 1805974067791943235
+    second: "SpritesDa\xF1osLaterales_21"
+  - first:
+      213: 6433417134230188836
+    second: "SpritesDa\xF1osLaterales_22"
+  - first:
+      213: -6204249305472275012
+    second: "SpritesDa\xF1osLaterales_23"
+  - first:
+      213: -703253180124544143
+    second: "SpritesDa\xF1osLaterales_24"
+  - first:
+      213: 771439922843971088
+    second: "SpritesDa\xF1osLaterales_25"
+  - first:
+      213: 7268525522768991980
+    second: "SpritesDa\xF1osLaterales_26"
+  - first:
+      213: -3319682385928332839
+    second: "SpritesDa\xF1osLaterales_27"
+  - first:
+      213: 1985981938000159791
+    second: "SpritesDa\xF1osLaterales_28"
+  - first:
+      213: -184224734344765767
+    second: "SpritesDa\xF1osLaterales_29"
+  - first:
+      213: 1001956067404636543
+    second: "SpritesDa\xF1osLaterales_30"
+  - first:
+      213: -719704865574286424
+    second: "SpritesDa\xF1osLaterales_31"
+  - first:
+      213: -5635220487815966220
+    second: "SpritesDa\xF1osLaterales_32"
+  - first:
+      213: -7999067948641383501
+    second: "SpritesDa\xF1osLaterales_33"
+  - first:
+      213: 7008328046092586386
+    second: "SpritesDa\xF1osLaterales_34"
+  - first:
+      213: 1101567436145263088
+    second: "SpritesDa\xF1osLaterales_35"
+  - first:
+      213: -4534574241360549208
+    second: "SpritesDa\xF1osLaterales_36"
+  - first:
+      213: -5895882061953666307
+    second: "SpritesDa\xF1osLaterales_37"
+  - first:
+      213: 7847188317375474790
+    second: "SpritesDa\xF1osLaterales_38"
+  - first:
+      213: 5842132141572795757
+    second: "SpritesDa\xF1osLaterales_39"
+  - first:
+      213: 5871158248520889654
+    second: "SpritesDa\xF1osLaterales_40"
+  - first:
+      213: 1597516876810877125
+    second: "SpritesDa\xF1osLaterales_41"
+  - first:
+      213: -3056365727678750753
+    second: "SpritesDa\xF1osLaterales_42"
+  - first:
+      213: 1837606884187371582
+    second: "SpritesDa\xF1osLaterales_43"
+  - first:
+      213: 248354749450502507
+    second: "SpritesDa\xF1osLaterales_44"
+  - first:
+      213: -5817765862414068960
+    second: "SpritesDa\xF1osLaterales_45"
+  - first:
+      213: -4329495743463764546
+    second: "SpritesDa\xF1osLaterales_46"
+  - first:
+      213: 2697176261333527547
+    second: "SpritesDa\xF1osLaterales_47"
+  - first:
+      213: -3197538016022697346
+    second: "SpritesDa\xF1osLaterales_48"
+  - first:
+      213: -1341788792947843523
+    second: "SpritesDa\xF1osLaterales_49"
+  - first:
+      213: -4052037392943830642
+    second: "SpritesDa\xF1osLaterales_50"
+  - first:
+      213: -5886794532915021082
+    second: "SpritesDa\xF1osLaterales_51"
+  - first:
+      213: 8130973954044999719
+    second: "SpritesDa\xF1osLaterales_52"
+  - first:
+      213: 3322228649651536942
+    second: "SpritesDa\xF1osLaterales_53"
+  - first:
+      213: -7770309111188935887
+    second: "SpritesDa\xF1osLaterales_54"
+  - first:
+      213: -2921627734218331102
+    second: "SpritesDa\xF1osLaterales_55"
+  - first:
+      213: -2627076122031099851
+    second: "SpritesDa\xF1osLaterales_56"
+  - first:
+      213: 6444742076643370662
+    second: "SpritesDa\xF1osLaterales_57"
+  - first:
+      213: -7197459244601430242
+    second: "SpritesDa\xF1osLaterales_58"
+  - first:
+      213: -1520387908466530952
+    second: "SpritesDa\xF1osLaterales_59"
+  - first:
+      213: -8765055463609409093
+    second: "SpritesDa\xF1osLaterales_60"
+  - first:
+      213: 5479053021604121495
+    second: "SpritesDa\xF1osLaterales_61"
+  - first:
+      213: 4065556693615639276
+    second: "SpritesDa\xF1osLaterales_62"
+  - first:
+      213: 8777103443462203729
+    second: "SpritesDa\xF1osLaterales_63"
+  - first:
+      213: 2016057473515602693
+    second: "SpritesDa\xF1osLaterales_64"
+  - first:
+      213: 2590396965210980991
+    second: "SpritesDa\xF1osLaterales_65"
+  - first:
+      213: -1187563536345565833
+    second: "SpritesDa\xF1osLaterales_66"
+  - first:
+      213: -2526039813123913490
+    second: "SpritesDa\xF1osLaterales_67"
+  - first:
+      213: -5136190293831698242
+    second: "SpritesDa\xF1osLaterales_68"
+  - first:
+      213: -7911670005160149271
+    second: "SpritesDa\xF1osLaterales_69"
+  - first:
+      213: -2107832467031833715
+    second: "SpritesDa\xF1osLaterales_70"
+  - first:
+      213: -4813401695384089972
+    second: "SpritesDa\xF1osLaterales_71"
+  - first:
+      213: 7326234408106344639
+    second: "SpritesDa\xF1osLaterales_72"
+  - first:
+      213: 8324275543742540945
+    second: "SpritesDa\xF1osLaterales_73"
+  - first:
+      213: -7378184884034928846
+    second: "SpritesDa\xF1osLaterales_74"
+  - first:
+      213: -7142407911418022922
+    second: "SpritesDa\xF1osLaterales_75"
+  - first:
+      213: -2881793067542226988
+    second: "SpritesDa\xF1osLaterales_76"
+  - first:
+      213: 2907653608677183076
+    second: "SpritesDa\xF1osLaterales_77"
+  - first:
+      213: 3044975895717386620
+    second: "SpritesDa\xF1osLaterales_78"
+  - first:
+      213: 7322733235905214879
+    second: "SpritesDa\xF1osLaterales_79"
+  - first:
+      213: -8409367538566505767
+    second: "SpritesDa\xF1osLaterales_80"
+  - first:
+      213: 6302775151165881242
+    second: "SpritesDa\xF1osLaterales_81"
+  - first:
+      213: 6104826554724890592
+    second: "SpritesDa\xF1osLaterales_82"
+  - first:
+      213: 9109301068924016967
+    second: "SpritesDa\xF1osLaterales_83"
+  - first:
+      213: -1787817483139390617
+    second: "SpritesDa\xF1osLaterales_84"
+  - first:
+      213: -3042795633708022070
+    second: "SpritesDa\xF1osLaterales_85"
+  - first:
+      213: 1888745712744336495
+    second: "SpritesDa\xF1osLaterales_86"
+  - first:
+      213: -1080435393589918529
+    second: "SpritesDa\xF1osLaterales_87"
+  - first:
+      213: -5323636127310941491
+    second: "SpritesDa\xF1osLaterales_88"
+  - first:
+      213: -4521478981793756562
+    second: "SpritesDa\xF1osLaterales_89"
+  - first:
+      213: 6975751598818136968
+    second: "SpritesDa\xF1osLaterales_90"
+  - first:
+      213: -1232107681698973423
+    second: "SpritesDa\xF1osLaterales_91"
+  - first:
+      213: -4902653447977700913
+    second: "SpritesDa\xF1osLaterales_92"
+  - first:
+      213: -300035372860770438
+    second: "SpritesDa\xF1osLaterales_93"
+  - first:
+      213: 8897692168515277440
+    second: "SpritesDa\xF1osLaterales_94"
+  - first:
+      213: 6598519420068885721
+    second: "SpritesDa\xF1osLaterales_95"
+  - first:
+      213: 7856980525101669373
+    second: "SpritesDa\xF1osLaterales_96"
+  - first:
+      213: 9157160279204114878
+    second: "SpritesDa\xF1osLaterales_97"
+  - first:
+      213: 6340667545465744024
+    second: "SpritesDa\xF1osLaterales_98"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5637.2725
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5d96baa0da36730800000000000000
+      internalID: 3991223956117509613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_1"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 5637.2725
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b5cc9b8c0960690800000000000000
+      internalID: -7636256926375060732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_2"
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 5637.2725
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553aad74d5eea6730800000000000000
+      internalID: 3993266104022246229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_3"
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 5637.2725
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea89c036e7f35c40800000000000000
+      internalID: 5500012137982561007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_4"
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 5637.2725
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3d72a3c871df790800000000000000
+      internalID: -7494808313836088407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_5"
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 5637.2725
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a7d03151f294310800000000000000
+      internalID: 1389693727580977668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_6"
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 5637.2725
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f93557aeb2a96280800000000000000
+      internalID: -9049523036489434635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_7"
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 5637.2725
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90af7c27986b9500800000000000000
+      internalID: 404031590075703451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_8"
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 5637.2725
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbb34e76229b1be0800000000000000
+      internalID: -1505448956400518157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_9"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5074.2725
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3b71167ee642cc0800000000000000
+      internalID: -3736739850765225006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_10"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 5074.2725
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2770b9eb49ac99cc0800000000000000
+      internalID: -3703706478333720718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_11"
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 5074.2725
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c7c1ce46320da50800000000000000
+      internalID: 6543769174934322316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_12"
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 5074.2725
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b669e67a78e5c29a0800000000000000
+      internalID: -6256521845601823125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_13"
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 5074.2725
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f51ad590614abc0800000000000000
+      internalID: -3772866358348259581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_14"
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 5074.2725
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31a9265843b6ef70800000000000000
+      internalID: 9216250810724884795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_15"
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 5074.2725
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc1abfa8c8a24bc0800000000000000
+      internalID: -3800289555652141884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_16"
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 5074.2725
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e071f31c21baae60800000000000000
+      internalID: 7974380893084152036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_17"
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 5074.2725
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cac9b9fbafb4b40800000000000000
+      internalID: 5425705876954328180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_18"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4511.2725
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d5071ed4d6d10d0800000000000000
+      internalID: -3450481558233784947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_19"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 4511.2725
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c2ed3b97ae23580800000000000000
+      internalID: -8848752509399978878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_20"
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 4511.2725
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b69f56863e8fdf80800000000000000
+      internalID: -8079582841645590862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_21"
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 4511.2725
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3465e40a8db101910800000000000000
+      internalID: 1805974067791943235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_22"
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 4511.2725
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423b3b14cc6184950800000000000000
+      internalID: 6433417134230188836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_23"
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 4511.2725
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd6c51d02416e9a0800000000000000
+      internalID: -6204249305472275012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_24"
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 4511.2725
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173438b65fa8d36f0800000000000000
+      internalID: -703253180124544143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_25"
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 4511.2725
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e6ba6c584b4ba00800000000000000
+      internalID: 771439922843971088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_26"
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 4511.2725
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce69181e37dfed460800000000000000
+      internalID: 7268525522768991980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_27"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3948.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9de9b557e1ee1d0800000000000000
+      internalID: -3319682385928332839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_28"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 3948.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2467d8ec00af8b10800000000000000
+      internalID: 1985981938000159791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_29"
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 3948.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be1a868490817df0800000000000000
+      internalID: -184224734344765767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_30"
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 3948.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7163361cb9a7ed00800000000000000
+      internalID: 1001956067404636543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_31"
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 3948.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab0358ec381306f0800000000000000
+      internalID: -719704865574286424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_32"
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 3948.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1d9b0b2dcabc1b0800000000000000
+      internalID: -5635220487815966220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_33"
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 3948.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb8403e41a9df090800000000000000
+      internalID: -7999067948641383501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_34"
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 3948.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d81c8e935924160800000000000000
+      internalID: 7008328046092586386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_35"
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 3948.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1839f2fbd894f00800000000000000
+      internalID: 1101567436145263088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_36"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3385.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa6110b0c4f111c0800000000000000
+      internalID: -4534574241360549208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_37"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 3385.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df277ab908e9d2ea0800000000000000
+      internalID: -5895882061953666307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_38"
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 3385.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ca2cec230d6ec60800000000000000
+      internalID: 7847188317375474790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_39"
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 3385.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6da655da3c631150800000000000000
+      internalID: 5842132141572795757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_40"
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 3385.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635313ff15b8a7150800000000000000
+      internalID: 5871158248520889654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_41"
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 3385.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8f00da2258b2610800000000000000
+      internalID: 1597516876810877125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_42"
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 3385.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf9702609b9595d0800000000000000
+      internalID: -3056365727678750753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_43"
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 3385.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38fcc0a9bd708910800000000000000
+      internalID: 1837606884187371582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_44"
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 3385.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61474b2455527300800000000000000
+      internalID: 248354749450502507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_45"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2822.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0235a60a5c4234fa0800000000000000
+      internalID: -5817765862414068960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_46"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2822.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdc64a5f8a8ae3c0800000000000000
+      internalID: -4329495743463764546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_47"
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 2822.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfba669f48b4e6520800000000000000
+      internalID: 2697176261333527547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_48"
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 2822.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ae82f9d1010a3d0800000000000000
+      internalID: -3197538016022697346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_49"
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 2822.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e5eb0b332016de0800000000000000
+      internalID: -1341788792947843523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_50"
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 2822.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89abf0b57544c7c0800000000000000
+      internalID: -4052037392943830642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_51"
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 2822.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea73e7df87ed4ea0800000000000000
+      internalID: -5886794532915021082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_52"
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 2822.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7283ec04bb507d070800000000000000
+      internalID: 8130973954044999719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_53"
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 2822.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e240b1dda5dea1e20800000000000000
+      internalID: 3322228649651536942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_54"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2259.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b2a9048015a2490800000000000000
+      internalID: -7770309111188935887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_55"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2259.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cacff1e0b4477d0800000000000000
+      internalID: -2921627734218331102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_56"
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 2259.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530fc649f20ca8bd0800000000000000
+      internalID: -2627076122031099851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_57"
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 2259.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a66753e5c2507950800000000000000
+      internalID: 6444742076643370662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_58"
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 2259.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f2e2863fc7d1c90800000000000000
+      internalID: -7197459244601430242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_59"
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 2259.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875ad0ba04f76eae0800000000000000
+      internalID: -1520387908466530952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_60"
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 2259.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1e6febe744c5680800000000000000
+      internalID: -8765055463609409093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_61"
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 2259.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b8e32a1b1890c40800000000000000
+      internalID: 5479053021604121495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_62"
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 2259.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceafb29c542cb6830800000000000000
+      internalID: 4065556693615639276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_63"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1696.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1592c6824198ec970800000000000000
+      internalID: 8777103443462203729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_64"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1696.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5034ba337997afb10800000000000000
+      internalID: 2016057473515602693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_65"
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1696.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7286aab050f2f320800000000000000
+      internalID: 2590396965210980991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_66"
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 1696.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7757ae3714de48fe0800000000000000
+      internalID: -1187563536345565833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_67"
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1696.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8414a6c24b1fcd0800000000000000
+      internalID: -2526039813123913490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_68"
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 1696.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb83a55f32698b8b0800000000000000
+      internalID: -5136190293831698242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_69"
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 1696.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eef0525c0a143290800000000000000
+      internalID: -7911670005160149271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_70"
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 1696.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83488cf9897fb2e0800000000000000
+      internalID: -2107832467031833715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_71"
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 1696.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a4e5919ac533db0800000000000000
+      internalID: -4813401695384089972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_72"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1133.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb04c6cc0630ca560800000000000000
+      internalID: 7326234408106344639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_73"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1133.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cee3dc084c58370800000000000000
+      internalID: 8324275543742540945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_74"
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1133.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ff0f370fb6b9990800000000000000
+      internalID: -7378184884034928846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_75"
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 1133.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f33dfeb8d111ec90800000000000000
+      internalID: -7142407911418022922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_76"
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1133.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d756f43970d108d0800000000000000
+      internalID: -2881793067542226988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_77"
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 1133.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e061b3d8f0a5820800000000000000
+      internalID: 2907653608677183076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_78"
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 1133.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c799cd5b17de14a20800000000000000
+      internalID: 3044975895717386620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_79"
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 1133.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99b31f94139f9560800000000000000
+      internalID: 7322733235905214879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_80"
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 1133.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dada0647cceb4b80800000000000000
+      internalID: -8409367538566505767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_81"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bb6604b94f77750800000000000000
+      internalID: 6302775151165881242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_82"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 570.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7bfb12863b8b450800000000000000
+      internalID: 6104826554724890592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_83"
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 570.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7495d4d1f0dba6e70800000000000000
+      internalID: 9109301068924016967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_84"
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 570.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7636e3aa8756037e0800000000000000
+      internalID: -1787817483139390617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_85"
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 570.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac649b81e71d5c5d0800000000000000
+      internalID: -3042795633708022070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_86"
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 570.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c0b2ff73c263a10800000000000000
+      internalID: 1888745712744336495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_87"
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 570.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb44052ebb58101f0800000000000000
+      internalID: -1080435393589918529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_88"
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 570.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2f136e525ae16b0800000000000000
+      internalID: -5323636127310941491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_89"
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 570.2727
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ac9c662da7041c0800000000000000
+      internalID: -4521478981793756562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_90"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7.272705
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8831be8be19dec060800000000000000
+      internalID: 6975751598818136968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_91"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 7.272705
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1197d4b679ca6eee0800000000000000
+      internalID: -1232107681698973423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_92"
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 7.272705
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1f1781aa646fbb0800000000000000
+      internalID: -4902653447977700913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_93"
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 7.272705
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77f4940b6f06dbf0800000000000000
+      internalID: -300035372860770438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_94"
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 7.272705
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082d021a2e3fa7b70800000000000000
+      internalID: 8897692168515277440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritesDa\xF1osLaterales_95"
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 7.272705
+        width: 397.44446
+        height: 563.7273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4f8bcb376a29b50800000000000000
+      internalID: 6598519420068885721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
