@@ -15,6 +15,9 @@ public class PlayerController : MonoBehaviour
     private String _objetivo;
     private GameObject _escudo;
     
+    private float timeLeft;
+    private bool timer;
+
     
     // Start is called before the first frame update
     void Start()
@@ -45,7 +48,15 @@ public class PlayerController : MonoBehaviour
         if(Input.GetKeyUp(KeyCode.Space))
             _escudo.SetActive(false);
         
-        
+        if(timer)
+        {
+            timeLeft -= Time.deltaTime;
+            if(timeLeft < 0)
+            {
+                _anima.SetBool("damaged", false);
+                timer = false;
+            }
+        }
     }
 
     private void OnCollisionEnter2D(Collision2D other)
@@ -59,6 +70,12 @@ public class PlayerController : MonoBehaviour
                 break;
             case "Tope":
                 break;
+            case "Scrap":
+                _anima.SetBool("damaged", true);
+                timeLeft = 1.5f;
+                timer = true;
+                Destroy(other.gameObject);
+                break;
         }
     }private void OnCollisionExit2D(Collision2D other)
     {
@@ -70,6 +87,9 @@ public class PlayerController : MonoBehaviour
                 _anima.SetBool("damaged",false);
                 break;
             case "Tope":
+                break;
+            case "Scrap":
+                //_anima.SetBool("damaged", false);
                 break;
         }
     }
