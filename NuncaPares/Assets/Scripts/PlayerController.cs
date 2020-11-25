@@ -10,21 +10,24 @@ public class PlayerController : MonoBehaviour
     private Animator _anima;
     private float _deadzone;
     public float direction;
+
+    private Collider2D _hitboxHero;
     
     
     // Start is called before the first frame update
     void Start()
     {
         _anima = GetComponent<Animator>();
+        _hitboxHero = GetComponent<CapsuleCollider2D>();
+        _hitboxHero.isTrigger = false;
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         direction = Input.GetAxis("Horizontal");
         transform.Translate(direction*speed*Time.deltaTime,0,transform.position.z);
         _anima.SetFloat("dir",direction);
-        Debug.Log(direction);
         
         if(Input.GetKeyDown(KeyCode.X))
             _anima.SetBool("impulsa",true);
@@ -38,8 +41,8 @@ public class PlayerController : MonoBehaviour
         
     }
 
-    private void FixedUpdate()
+    private void OnCollisionEnter2D(Collision2D other)
     {
-        
+        Debug.Log(other.gameObject.tag);
     }
 }
