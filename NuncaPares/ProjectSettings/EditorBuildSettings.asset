@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Ciudad.unity
     guid: 1712f69f2f750de4784190164ce72e60
+  - enabled: 1
+    path: Assets/Scenes/Dreamland.unity
+    guid: de0f82ea01332f544bbf43a8b32bf275
   m_configObjects: {}

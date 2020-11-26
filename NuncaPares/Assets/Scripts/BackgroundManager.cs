@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class BackgroundManager : MonoBehaviour
 {
@@ -52,30 +53,21 @@ public class BackgroundManager : MonoBehaviour
         anterior = actual;
         actual = siguiente;
         
-        siguiente = fondos[index];
-        siguiente = Instantiate (siguiente, new Vector3(0,18,9.11f), Quaternion.identity) as GameObject;
-        siguiente.transform.SetParent (GetComponent<Transform>());
-        siguiente.name = "bloque_" + index;
-        index++;
-        if (index>=fondos.Count-1)
+        if (index < fondos.Count )
         {
-            index = 0;
+            siguiente = fondos[index];
+            siguiente = Instantiate (siguiente, new Vector3(0,18,9.11f), Quaternion.identity) as GameObject;
+            siguiente.transform.SetParent (GetComponent<Transform>());
+            siguiente.name = "bloque_" + index;
+            index++;
         }
+        else
+        {
+            SceneManager.LoadScene("Scenes/Dreamland");
+        }
+
         Destroy(anterior);
         distancia = 0;
     }
-    
-    
-    
-    private void OnCollisionEnter2D(Collision2D other)
-    {
-        
-    }
 
-    private void OnCollisionExit2D(Collision2D other)
-    {
-        Destroy(actual);
-        actual = siguiente;
-        
-    }
 }

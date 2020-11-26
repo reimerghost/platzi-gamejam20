@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -32,6 +33,7 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         direction = Input.GetAxis("Horizontal");
+        
         transform.Translate(direction*speed*Time.deltaTime,0,0);
         _anima.SetFloat("dir",direction);
         
@@ -76,6 +78,8 @@ public class PlayerController : MonoBehaviour
                 timer = true;
                 Destroy(other.gameObject);
                 break;
+            case "Meta":
+                break;
         }
     }private void OnCollisionExit2D(Collision2D other)
     {
@@ -85,8 +89,6 @@ public class PlayerController : MonoBehaviour
         {
             case "Pared":
                 _anima.SetBool("damaged",false);
-                break;
-            case "Tope":
                 break;
             case "Scrap":
                 //_anima.SetBool("damaged", false);
