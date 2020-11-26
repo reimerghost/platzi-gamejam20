@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class FrameMovement : MonoBehaviour
 {
@@ -61,10 +62,11 @@ public class FrameMovement : MonoBehaviour
                 timeRemaining = 0;
                 timerIsRunning = false;
             }
+        }
+        else
+        {
+            SceneManager.LoadScene("Ciudad");
+        }
 
-
-
-
-        } 
     }
 }
