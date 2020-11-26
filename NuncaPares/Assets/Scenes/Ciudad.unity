@@ -284,9 +284,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb07790fe3149dc48b65a31c58843f29, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  scrollSpeed: 5
   fondos:
   - {fileID: 941554504621039886, guid: 88dc54df3e501a54b8561659c5b73267, type: 3}
   - {fileID: 119199099171210362, guid: 0f835ceb07d17564da6ef9f9c69aa474, type: 3}
+  - {fileID: 941554504621039886, guid: 88dc54df3e501a54b8561659c5b73267, type: 3}
+  - {fileID: 119199099171210362, guid: 0f835ceb07d17564da6ef9f9c69aa474, type: 3}
+  - {fileID: 941554504621039886, guid: 88dc54df3e501a54b8561659c5b73267, type: 3}
+  - {fileID: 119199099171210362, guid: 0f835ceb07d17564da6ef9f9c69aa474, type: 3}
+  - {fileID: 119199099171210362, guid: 0f835ceb07d17564da6ef9f9c69aa474, type: 3}
+  - {fileID: 941554504621039886, guid: 88dc54df3e501a54b8561659c5b73267, type: 3}
+  - {fileID: 119199099171210362, guid: 0f835ceb07d17564da6ef9f9c69aa474, type: 3}
+  - {fileID: 941554504621039886, guid: 88dc54df3e501a54b8561659c5b73267, type: 3}
 --- !u!1 &623900465
 GameObject:
   m_ObjectHideFlags: 0
