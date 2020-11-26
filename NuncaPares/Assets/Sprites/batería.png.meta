@@ -1,0 +1,662 @@
+fileFormatVersion: 2
+guid: 3bcd9969d6aeaa04b838e93559909b26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6188817041324699639
+    second: "bater\xEDa_0"
+  - first:
+      213: 999691240091674575
+    second: "bater\xEDa_1"
+  - first:
+      213: -5780695863578719059
+    second: "bater\xEDa_2"
+  - first:
+      213: -2354496748373658789
+    second: "bater\xEDa_3"
+  - first:
+      213: 2206628390707580483
+    second: "bater\xEDa_4"
+  - first:
+      213: 5913360163444424720
+    second: "bater\xEDa_5"
+  - first:
+      213: 6986444713801557395
+    second: "bater\xEDa_6"
+  - first:
+      213: 4463043092254257412
+    second: "bater\xEDa_7"
+  - first:
+      213: -7023533901600740185
+    second: "bater\xEDa_8"
+  - first:
+      213: 6641650465047284683
+    second: "bater\xEDa_9"
+  - first:
+      213: -4515932081492219698
+    second: "bater\xEDa_10"
+  - first:
+      213: 2406760542334054962
+    second: "bater\xEDa_11"
+  - first:
+      213: -5195237718065453470
+    second: "bater\xEDa_12"
+  - first:
+      213: -1040193312484494092
+    second: "bater\xEDa_13"
+  - first:
+      213: 8920540870679069994
+    second: "bater\xEDa_14"
+  - first:
+      213: -6151634529135202092
+    second: "bater\xEDa_15"
+  - first:
+      213: 8651287135865733834
+    second: "bater\xEDa_16"
+  - first:
+      213: 209122516216855092
+    second: "bater\xEDa_17"
+  - first:
+      213: -4708008788021543009
+    second: "bater\xEDa_18"
+  - first:
+      213: 5516995519796112162
+    second: "bater\xEDa_19"
+  - first:
+      213: 7631137013639196592
+    second: "bater\xEDa_20"
+  - first:
+      213: -5432418239162146442
+    second: "bater\xEDa_21"
+  - first:
+      213: -6914769366792273821
+    second: "bater\xEDa_22"
+  - first:
+      213: 2863688873631902309
+    second: "bater\xEDa_23"
+  - first:
+      213: -5392738240938171459
+    second: "bater\xEDa_24"
+  - first:
+      213: -5002432208545811642
+    second: "bater\xEDa_25"
+  - first:
+      213: 7491979807859933137
+    second: "bater\xEDa_26"
+  - first:
+      213: -690909967719626454
+    second: "bater\xEDa_27"
+  - first:
+      213: 106630959595825855
+    second: "bater\xEDa_28"
+  - first:
+      213: -7024791341386071729
+    second: "bater\xEDa_29"
+  - first:
+      213: -3377283116146946450
+    second: "bater\xEDa_30"
+  - first:
+      213: 112047572517653155
+    second: "bater\xEDa_31"
+  - first:
+      213: 4237605322479156118
+    second: "bater\xEDa_32"
+  - first:
+      213: -8113332201139046003
+    second: "bater\xEDa_33"
+  - first:
+      213: 6368805444522515542
+    second: "bater\xEDa_34"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "bater\xEDa_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3546
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffea003f4813e550800000000000000
+      internalID: 6188817041324699639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bater\xEDa_1"
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 3546
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7ebb2e2ed9fdd00800000000000000
+      internalID: 999691240091674575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bater\xEDa_2"
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 3546
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac02d05db7d6cfa0800000000000000
+      internalID: -5780695863578719059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bater\xEDa_3"
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 3546
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5330689ea5235fd0800000000000000
+      internalID: -2354496748373658789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bater\xEDa_4"
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 3546
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34eca6384d48f9e10800000000000000
+      internalID: 2206628390707580483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bater\xEDa_5"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2955
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0100d030db9701250800000000000000
+      internalID: 5913360163444424720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bater\xEDa_6"
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 2955
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3952c019376d4f060800000000000000
+      internalID: 6986444713801557395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bater\xEDa_7"
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 2955
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4017313db0aefed30800000000000000
+      internalID: 4463043092254257412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bater\xEDa_8"
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 2955
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acac27f025678e90800000000000000
+      internalID: -7023533901600740185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bater\xEDa_9"
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 2955
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb8373b8e1eb2c50800000000000000
+      internalID: 6641650465047284683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bater\xEDa_10"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2364
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8add4c2bf2451c0800000000000000
+      internalID: -4515932081492219698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bater\xEDa_11"
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 2364
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2327f3136f7866120800000000000000
+      internalID: 2406760542334054962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bater\xEDa_12"
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 2364
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2666ffa22dec6e7b0800000000000000
+      internalID: -5195237718065453470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bater\xEDa_13"
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 2364
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4ff9781bd7091f0800000000000000
+      internalID: -1040193312484494092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bater\xEDa_14"
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 2364
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a250e29a8a02ccb70800000000000000
+      internalID: 8920540870679069994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bater\xEDa_15"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1773
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d07ede0df001aaa0800000000000000
+      internalID: -6151634529135202092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bater\xEDa_16"
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1773
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac20f2740db8f0870800000000000000
+      internalID: 8651287135865733834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bater\xEDa_17"
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1773
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a34ad02d3f6e200800000000000000
+      internalID: 209122516216855092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bater\xEDa_18"
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1773
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ffe8e83fac9aeb0800000000000000
+      internalID: -4708008788021543009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bater\xEDa_19"
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 1773
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b6ed8e13e409c40800000000000000
+      internalID: 5516995519796112162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bater\xEDa_20"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1182
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfac42beae37e960800000000000000
+      internalID: 7631137013639196592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

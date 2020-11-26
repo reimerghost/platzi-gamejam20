@@ -78,6 +78,12 @@ public class PlayerController : MonoBehaviour
                 timer = true;
                 Destroy(other.gameObject);
                 break;
+            case "Batt":
+                _anima.SetBool("impulsa", true);
+                timeLeft = 1.5f;
+                timer = true;
+                Destroy(other.gameObject);
+                break;
             case "Meta":
                 break;
         }
